@@ -1,0 +1,7 @@
+user_id,channel,touchpoint_date,conversion,revenue
+1,Google Ads,01-01-2024,0,0
+1,Facebook,03-01-2024,0,0
+1,Email,05-01-2024,1,500
+2,Google Ads,02-01-2024,1,300
+3,Instagram,04-01-2024,0,0
+3,Email,06-01-2024,1,400
